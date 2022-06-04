@@ -1,0 +1,27 @@
+email: 'boatsfreedom@gmail.com'
+phone: '+34 672 09 76 59 | +34 610 883 784'
+businessName: 'Freedom Boats'
+address: |
+  Puerto Portals, Mallorca - Spain
+hours:
+  - day: Monday
+    open: 9:00am
+    close: 19:00pm
+  - day: Tuesday
+    open: 9:00am
+    close: 19:00pm
+  - day: Wednesday
+    open: 9:00am
+    close: 19:00pm
+  - day: Thursday
+    open: 9:00am
+    close: 19:00pm
+  - day: Friday
+    open: 9:00am
+    close: 19:00pm
+  - day: Saturday
+    open: 9:00am
+    close: 19:00pm
+  - day: Sunday
+    open: 9:00am
+    close: 19:00pm
