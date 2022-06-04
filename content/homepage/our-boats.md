@@ -1,7 +1,7 @@
 ---
 title: 'Boats to experience the island by the sea'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/home-sub-hero.jpeg'
 button: 'Our Boats'
 buttonLink: 'our-boats'
 ---
