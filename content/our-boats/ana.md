@@ -14,3 +14,5 @@ images: ['https://source.unsplash.com/random/400x600/?nature',
 8m speed boat with a 250HP outboard engine (9 PAX)
 
 Ana is the perfect boat to enjoy a nice day at the sea. With it's brand new 250 HP outboard engine you can speed to any beach or _cala_ around the Calvià area or you can even zip over to cabrera and spend the day there!
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FMadrid&title=Ana&mode=MONTH&showPrint=0&showTabs=0&showCalendars=0&showTz=0&showDate=1&showNav=1&showTitle=1&src=dnZkbHZoM242dGhidTZydXU0N2pobW1tYTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
